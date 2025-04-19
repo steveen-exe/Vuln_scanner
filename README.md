@@ -19,5 +19,5 @@ It generates **detailed reports** in both **text** and **JSON** formats to help 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vuln-scanner.git
+   git clone https://github.com/steveen-exe/Simple_vuln_scanner.git
    cd vuln-scanner
